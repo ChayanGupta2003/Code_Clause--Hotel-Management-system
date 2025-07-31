@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-21">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/CHAYAN GUPTA/Downloads/mysql-connector-j-9.3.0/mysql-connector-j-9.3.0/mysql-connector-j-9.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/CHAYAN GUPTA/Downloads/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/CHAYAN GUPTA/Downloads/iText-pdfHtml-6.2.0-only-jars/html2pdf-6.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/CHAYAN GUPTA/Downloads/okio-2.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/CHAYAN GUPTA/Downloads/okhttp-4.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/CHAYAN GUPTA/Downloads/json-20210307.jar"/>
+	<classpathentry kind="lib" path="C:/Users/CHAYAN GUPTA/Downloads/razorpay-java-1.4.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/CHAYAN GUPTA/Downloads/kotlin-stdlib-1.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/CHAYAN GUPTA/Downloads/logging-interceptor-4.9.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
